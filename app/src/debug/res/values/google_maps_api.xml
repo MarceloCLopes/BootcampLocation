@@ -1,0 +1,25 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+    (Para obter um, siga este link, siga as instruções e pressione "Criar" no final:)
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=D9:81:B2:19:77:43:C6:32:61:09:2F:F0:1E:B8:4B:C1:65:D1:84:3B%3Bcom.mcl.bootcamplocation
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.mcl.bootcamplocation
+
+    SHA-1 certificate fingerprint:
+    D9:81:B2:19:77:43:C6:32:61:09:2F:F0:1E:B8:4B:C1:65:D1:84:3B
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDvnQJ0TGmm5gVqpzr5TBEIjszyWIuSGik</string>
+</resources>
